@@ -28,3 +28,4 @@ Every instance of a should be turned into an if the next word begins with a vowe
 The code can be ran with 2 argument, first the sample.txt file, that needs to be corrected and then another .txt file to store the results-
 
 ```go run nii.go sample.txt result.txt```
+# ascii-art
